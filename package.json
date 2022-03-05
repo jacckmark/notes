@@ -1,0 +1,11 @@
+{
+  "name": "template.publish.github-action",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/jacckmark/notes",
+  "author": "Jacckmark <jacckmark@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "@dendronhq/dendron-cli": "*"
+  }
+}
