@@ -1,0 +1,12 @@
+version: 1
+imports: []
+schemas:
+  - id: programming
+    title: programming
+    parent: root
+    children:
+      - pattern: "*"
+        children:
+          - pattern: algorithms
+          - pattern: data-structures
+          - pattern: test
