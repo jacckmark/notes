@@ -82,7 +82,8 @@ publishing:
   siteHierarchies:
     - root
   writeStubs: false
-  siteUrl: "https://jacckmark.github.io/notes"
+  siteUrl: https://jacckmark.github.io
+  assetsPrefix: /notes
   siteRootDir: docs
   seo:
     title: Dendron
